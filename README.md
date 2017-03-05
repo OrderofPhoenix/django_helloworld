@@ -1,2 +1,1 @@
-# django_helloworld
-# django_helloworld
+A simple hello world program for Django framework.
